@@ -1,0 +1,12 @@
+.nav-header-border{
+    border-top:10px solid #4477ba;
+    /*border-bottom:10px solid #4477ba;*/
+}
+
+.nav-text-color{
+    color: #4477ba;
+}
+
+.home_card_back{
+    background-color: #4477ba;
+}
